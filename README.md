@@ -1,7 +1,7 @@
 # AI00
 ## 机器之心选出了全球100家影响人工智能未来的公司（中国25家），同时这是一个开源项目 
 
-* We believe AI should be an extension of individual human wills and, in the spirit of liberty, as broadly and evenly distributed as possible. －OpenAI*
+*We believe AI should be an extension of individual human wills and, in the spirit of liberty, as broadly and evenly distributed as possible. －OpenAI*
 
 「AI00 ，这是一个开源项目」
 
