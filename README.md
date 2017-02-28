@@ -1,6 +1,4 @@
-# AI00
-
-## 机器之心会选出全球100家影响人工智能未来的公司
+# AI00——机器之心百家影响人工智能未来的公司榜单
 
 *We believe AI should be an extension of individual human wills and, in the spirit of liberty, as broadly and evenly distributed as possible. －OpenAI*
 
@@ -30,6 +28,6 @@
 
 **参与方式：**
 
-1. [填写表单](http://form.mikecrm.com/On3eJM)，申请加入「AI00」开源社区；或通过微信群和其他协作平台进行讨论。
-2. 直接在 GitHub 页面进行 contribute 。
+1. [填写表单](http://form.mikecrm.com/On3eJM)，申请加入「AI00」开源社区；或通过微信群和其它协作平台进行讨论。
+2. 直接在 GitHub 页面 Contribute 。
 
