@@ -27,6 +27,7 @@
 4. [2017 年 1 月榜单](http://www.jiqizhixin.com/article/2271)
 5. [2017 年 2 月榜单](http://jiqizhixin.com/article/2411)
 6. [2017 年 3 月榜单](http://jiqizhixin.com/article/2621)
+7. [2017 年 4 月榜单](http://www.jiqizhixin.com/article/2783)
 
 **参与方式：**
 
