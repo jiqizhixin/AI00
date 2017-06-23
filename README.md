@@ -13,21 +13,22 @@
 我们深刻地理解在没有专业用户反馈的情况下所做出报告的质量局限性，所以希望用工程界「Agile Development」的理念来对待我们的报告，不断收集专业反馈来持续提升报告质量。
 
 人工智能是一个永恒命题，我们不仅会把 **「100 家公司」** 这个主题持续做下去，还会陆续开展其他主题。这个过程需要人工智能领域不同的参与者加入进来。
-向 [OpenAI](https://openai.com/) 、「[斯坦福人工智能百年研究](http://www.jiqizhixin.com/article/1486)」和「Open Source」致敬。
+向 [OpenAI](https://openai.com/) 、「[斯坦福人工智能百年研究](https://www.jiqizhixin.com/articles/1c953a3c-a2b6-4bee-86b0-cda5a18412c9)」和「Open Source」致敬。
 
 为此，我们将邀请人工智能领域的科学家、技术专家、产业专家、专业投资人和读者加入进来，共同完成这项人工智能的长期研究。我们将对参与者提供的信息进行汇总和整理，以月度为单位更新此份报告。
 
-**AI00 第一版公司名单**：[AI00：机器之心选出全球最值得关注的100家人工智能公司](http://www.jiqizhixin.com/article/1650)
+**AI00 第一版公司名单**：[AI00：机器之心选出全球最值得关注的100家人工智能公司](https://www.jiqizhixin.com/articles/52dbc84b-fb32-4017-a4fb-67a05323de80)
 
 以下为所有榜单：
 
-1. [2016 年 10 月榜单](http://www.jiqizhixin.com/article/1650) *（第一版）*
-2. [2016 年 11 月榜单](http://www.jiqizhixin.com/article/1935)
-3. [2016 年 12 月榜单](http://www.jiqizhixin.com/article/2114)
-4. [2017 年 1 月榜单](http://www.jiqizhixin.com/article/2271)
-5. [2017 年 2 月榜单](http://jiqizhixin.com/article/2411)
-6. [2017 年 3 月榜单](http://jiqizhixin.com/article/2621)
-7. [2017 年 4 月榜单](http://www.jiqizhixin.com/article/2783)
+1. [2016 年 10 月榜单](https://www.jiqizhixin.com/articles/52dbc84b-fb32-4017-a4fb-67a05323de80) *（第一版）*
+2. [2016 年 11 月榜单](https://www.jiqizhixin.com/articles/b4265ac9-dac4-4911-ab65-8eff5c0fcc61)
+3. [2016 年 12 月榜单](https://www.jiqizhixin.com/articles/1cdba474-f78d-4104-92de-0de6336ecc26)
+4. [2017 年 1 月榜单](https://www.jiqizhixin.com/articles/0d1883ad-1958-4064-a5c1-a60b7c1c20fe)
+5. [2017 年 2 月榜单](https://www.jiqizhixin.com/articles/7a08ce38-bdf3-4fca-81d4-0018f7246336)
+6. [2017 年 3 月榜单](https://www.jiqizhixin.com/articles/11c621b4-1f3e-4fb4-825a-4b8259c8f337)
+7. [2017 年 4 月榜单](https://www.jiqizhixin.com/articles/0af8d0bf-d0e7-411b-b271-70ee0fc06fc7)
+8. [2017 年 5 月榜单](https://www.jiqizhixin.com/articles/3a11df2c-6953-4e22-a66e-783ec43830da)
 
 **参与方式：**
 
