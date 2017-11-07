@@ -33,6 +33,7 @@
 10. [2017 年 7 月榜单](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650729714&idx=5&sn=66b1334682a6e0dc673e2111cca9b08c&chksm=871b288cb06ca19af8569d63a8f0887e08b9d9b7ca396a354a34c82a30b8144940d26dfdfd88#rd)
 11. [2017 年 8 月榜单](https://mp.weixin.qq.com/s/DcRCTd5G3E9hPZR2pFRqow)
 12. [2017 年 9 月榜单](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650731852&idx=5&sn=2bea1f49c0fa3ac46fbcef52c2555e46&chksm=871b3132b06cb824d3c04529b84e18dbe5fd154fa4cc6f51a8166d47bf3329d1cbc084bf906d#rd)
+13. [2017 年 10 月榜单](https://www.jiqizhixin.com/articles/2017-11-07-2)
 
 **参与方式：**
 
