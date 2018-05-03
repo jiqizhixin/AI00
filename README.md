@@ -36,6 +36,9 @@
 13. [2017 年 10 月榜单](https://www.jiqizhixin.com/articles/2017-11-07-2)
 14. [2017 年 11 月榜单](https://www.jiqizhixin.com/articles/2017-12-06-5)
 15. [2017 年 12 月榜单](https://www.jiqizhixin.com/articles/2018-01-10-5)
+16. [2018 年 1 月榜单](https://www.jiqizhixin.com/articles/AI00-Jan-2018)
+17. [2018 年 2 月榜单](https://www.jiqizhixin.com/articles/synced-ai00-list-feb-2018)
+18. [2018 年 3 月榜单](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650740647&idx=5&sn=fc7b947d672f6e3607cc8cd817c60471&chksm=871ad3d9b06d5acf8cbfa2433170f71bf49ad28c85547c56805206054e248ad1390155815d36&scene=21#wechat_redirect)
 
 **参与方式：**
 
