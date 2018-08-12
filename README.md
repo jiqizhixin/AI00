@@ -42,6 +42,7 @@
 19. [2018 年 4 月榜单](https://www.jiqizhixin.com/articles/AI00-April-2018-list)
 20. [2018 年 5 月榜单](https://www.jiqizhixin.com/articles/2018-06-07-17)
 21. [2018 年 6 月榜单](https://www.jiqizhixin.com/articles/2018-08-07-3)
+22. [2018 年 7 月榜单](https://www.jiqizhixin.com/articles/2018-08-12)
 
 **参与方式：**
 
